@@ -1,0 +1,37 @@
+
+h3 {
+  font-size: large;
+  font-weight: bolder;
+  color: darkolivegreen;
+  text-align:center;
+}
+.container {
+  height: 100%;
+}
+
+.row {
+  background-color: rgb(197, 217, 236);
+}
+
+.column {
+    margin-left: 100px;
+    float: left;
+    width: 25%;
+    
+  }
+ 
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  figure {
+    display: inline-block; 
+  }
+  
+  figure figcaption {
+    color:rgb(107, 61, 47);
+    text-align: center;
+  }
+  

@@ -1,0 +1,24 @@
+
+.info {
+    width: 960 px;
+    Text-align: left;
+    color: rgb(4, 8, 219);
+
+}
+
+h2 {  
+   text-align: center;   
+   margin: 0 auto;
+   color: rgb(54, 15, 226);
+}
+
+
+form {
+    background-color: rgba(245, 246, 248, 0.932);
+    margin-left: 350px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 780px;    
+}
+
+
